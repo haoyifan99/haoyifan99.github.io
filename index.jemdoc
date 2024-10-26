@@ -1,0 +1,44 @@
+# jemdoc: menu{MENU1}{home.html}
+= Yifan Hao
+
+~~~
+{}{img_left}{photo.jpg}{picture}{200}{250}{}
+Ph.D. student\n
+[https://siebelschool.illinois.edu/ University of Illinois Urbana-Champaign, Computer Science]\n
+{{<a href="cv.pdf" onclick="javascript:urchinTracker('/downloads/cv_yifanhao.pdf');">[Curriculum Vitae]</a>}} ~~~~ [https://scholar.google.com.hk/citations?user=lzI8IicAAAAJ&hl=zh-CN \[Google Scholar\]] \n
+
+Email: yifanh12 AT Illinois DOT edu
+~~~
+
+I am a first-year Ph.D. student in computer science at UIUC, where I am fortunate to advised by [http://tongzhang-ml.org/ Prof. Tong Zhang]. Previously, I obtained a master's degree in mathematics in 2024 at [https://hkust.edu.hk/ The Hong Kong University of Science and Technology], where my study was supported by the Hong Kong PhD Fellowship. Before that, I received a B.S. in Statistics from [https://en.ustc.edu.cn/ the University of Science and Technology of China] in 2022.
+  
+== Research Interests
+~~~
+{News}
+
+~~~
+
+My research interests span the intersection of machine learning theory and statistics, with a special focus on analyzing both robustness and generalization performance of neural networks. 
+
+== Publications and Preprints
+. [https://arxiv.org/pdf/2403.17592 On the Benefits of Over-parameterization for Out-of-Distribution Generalization] \n
+Yifan Hao\*, Yong Lin\*, Difan Zou, Tong Zhang, Preprint.\n
+. [https://arxiv.org/pdf/2401.12236 The Surprising Harmfulness of Benign Overfitting for Adversarial Robustness] \n
+Yifan Hao, Tong Zhang, Preprint.\n 
+. [https://arxiv.org/pdf/2309.17230 Spurious feature diversification improves out-of-distribution generalization] \n
+Yong Lin\*, Lu Tan\*, Yifan Hao\*, Honam Wong, Hanze Dong, Weizhong Zhang, Yujiu Yang, Tong Zhang, /ICLR/ 2024.\n 
+. [https://arxiv.org/pdf/2307.02037 Monte Carlo Sampling without Isoperimetry: A Reverse Diffusion Approach] \n
+Xunpeng Huang\*, Hanze Dong\*, Yifan Hao, YI-An Ma, Tong Zhang, /ICLR/ 2024.\n 
+. SFQRA: Scaled Factor-augmented Quantile Regression with Aggregation in Conditional Mean Forecasting \n
+Lei Shu, Yifan Hao, Yu Chen, Qing Yang, Preprint.\n
+
+(* denotes equal contribution.)
+
+  
+== Servie
+Conference Reviewer: ICLR \n
+Journal Reviewer: Journal of Machine Learning Research, SIAM Journal on Mathematics of Data Science
+
+== Contact me
+
+If you are interested in discussing with me, feel free to contact me via email: yifanh12 AT Illinois DOT edu, yhaoah AT connect AT ust AT hk.  

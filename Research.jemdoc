@@ -1,0 +1,18 @@
+# jemdoc: nofooter
+# jemdoc: menu{MENU1}{Research.html}
+= Research
+
+== Papers and Preprints
+. [https://arxiv.org/pdf/2403.17592 On the Benefits of Over-parameterization for Out-of-Distribution Generalization] \n
+Yifan Hao\*, Yong Lin\*, Difan Zou, Tong Zhang, Preprint.\n
+. [https://arxiv.org/pdf/2401.12236 The Surprising Harmfulness of Benign Overfitting for Adversarial Robustness] \n
+Yifan Hao, Tong Zhang, Preprint.\n 
+. [https://arxiv.org/pdf/2309.17230 Spurious feature diversification improves out-of-distribution generalization] \n
+Yong Lin\*, Lu Tan\*, Yifan Hao\*, Honam Wong, Hanze Dong, Weizhong Zhang, Yujiu Yang, Tong Zhang, /ICLR/ 2024.\n 
+. [https://arxiv.org/pdf/2307.02037 Monte Carlo Sampling without Isoperimetry: A Reverse Diffusion Approach] \n
+Xunpeng Huang\*, Hanze Dong\*, Yifan Hao, YI-An Ma, Tong Zhang, /ICLR/ 2024.\n 
+. SFQRA: Scaled Factor-augmented Quantile Regression with Aggregation in Conditional Mean Forecasting \n
+Lei Shu, Yifan Hao, Yu Chen, Qing Yang, Preprint.\n
+
+(* denotes equal contribution.)
+
