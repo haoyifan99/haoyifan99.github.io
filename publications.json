@@ -1,0 +1,315 @@
+[
+  {
+    "id": "muon",
+    "title": "Muon for RLVR: What Works, Why, and What It Learns",
+    "authors": [
+      "Yifan Hao",
+      "Zoey (Sha) Li",
+      "Changlong Yu",
+      "Qin Lu",
+      "Shuowei Jin",
+      "Xin Liu",
+      "Zhenyu Shi",
+      "Tong Zhang"
+    ],
+    "venue": "Preprint",
+    "year": 2026,
+    "topics": [
+      "llm"
+    ],
+    "links": []
+  },
+  {
+    "id": "retrieval",
+    "title": "Retrieval-Guided Fine-Tuning as Noisy Estimation: Risk bounds and Architectural Analysis",
+    "authors": [
+      "Bhargav Lad",
+      "Yifan Hao"
+    ],
+    "venue": "NewInML Workshop @ NeurIPS",
+    "year": 2026,
+    "topics": [
+      "llm",
+      "theory"
+    ],
+    "url": "https://arxiv.org/abs/2609.14485",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2609.14485"
+      ]
+    ]
+  },
+  {
+    "id": "alp",
+    "title": "Adaptive Layerwise Perturbation: Unifying Off-Policy Corrections for LLM RL",
+    "authors": [
+      "Chenlu Ye*",
+      "Xuanchang Zhang*",
+      "Yifan Hao*",
+      "Zhou Yu",
+      "Ziji Zhang",
+      "Abhinav Gullapalli",
+      "Hao Chen",
+      "Jing Huang",
+      "Tong Zhang"
+    ],
+    "venue": "Preprint",
+    "year": 2026,
+    "topics": [
+      "llm"
+    ],
+    "url": "https://arxiv.org/abs/2603.19470",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2603.19470"
+      ]
+    ]
+  },
+  {
+    "id": "taskvectors",
+    "title": "Task Vector Bases: A Unified and Scalable Framework for Compressed Task Arithmetic",
+    "authors": [
+      "Siqi Zeng",
+      "Yifei He",
+      "Meitong Liu",
+      "Weiqiu You",
+      "Yifan Hao",
+      "Yao-Hung Hubert Tsai",
+      "Makoto Yamada",
+      "Han Zhao"
+    ],
+    "venue": "TMLR",
+    "year": 2026,
+    "topics": [
+      "merging",
+      "theory"
+    ],
+    "url": "https://openreview.net/forum?id=zkc7u3mIaE",
+    "links": [
+      [
+        "Paper",
+        "https://openreview.net/forum?id=zkc7u3mIaE"
+      ],
+      [
+        "Code",
+        "https://github.com/uiuctml/TaskVectorBasis"
+      ]
+    ]
+  },
+  {
+    "id": "dipnet",
+    "title": "Towards Better Generalization via Distributional Input Projection Network",
+    "authors": [
+      "Yifan Hao*",
+      "Yanxin Lu*",
+      "Hanning Zhang",
+      "Xinwei Shen",
+      "Tong Zhang"
+    ],
+    "venue": "Preprint",
+    "year": 2025,
+    "topics": [
+      "llm",
+      "theory"
+    ],
+    "url": "https://arxiv.org/abs/2506.04690",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2506.04690"
+      ]
+    ]
+  },
+  {
+    "id": "hmm",
+    "title": "Transformers as Multi-task Learners: Decoupling Features in Hidden Markov Models",
+    "authors": [
+      "Yifan Hao*",
+      "Chenlu Ye*",
+      "Chi Han",
+      "Tong Zhang"
+    ],
+    "venue": "Preprint",
+    "year": 2025,
+    "topics": [
+      "llm",
+      "theory"
+    ],
+    "url": "https://arxiv.org/abs/2506.01919",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2506.01919"
+      ]
+    ]
+  },
+  {
+    "id": "gvm",
+    "title": "Optimizing Chain-of-Thought Reasoners via Gradient Variance Minimization in Rejection Sampling and RL",
+    "authors": [
+      "Jiarui Yao*",
+      "Yifan Hao*",
+      "Hanning Zhang",
+      "Hanze Dong",
+      "Wei Xiong",
+      "Nan Jiang",
+      "Tong Zhang"
+    ],
+    "venue": "NeurIPS",
+    "year": 2025,
+    "topics": [
+      "llm"
+    ],
+    "url": "https://arxiv.org/abs/2505.02391",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2505.02391"
+      ]
+    ]
+  },
+  {
+    "id": "overadapt",
+    "title": "Understanding Overadaptation in Supervised Fine-Tuning: The Role of Ensemble Methods",
+    "authors": [
+      "Yifan Hao*",
+      "Xingyuan Pan*",
+      "Hanning Zhang*",
+      "Chenlu Ye",
+      "Rui Pan",
+      "Tong Zhang"
+    ],
+    "venue": "ICML",
+    "year": 2025,
+    "topics": [
+      "llm",
+      "theory"
+    ],
+    "url": "https://arxiv.org/abs/2506.01901",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2506.01901"
+      ]
+    ]
+  },
+  {
+    "id": "benign",
+    "title": "The Surprising Harmfulness of Benign Overfitting for Adversarial Robustness",
+    "authors": [
+      "Yifan Hao",
+      "Tong Zhang"
+    ],
+    "venue": "IEEE TIT",
+    "year": 2026,
+    "topics": [
+      "theory"
+    ],
+    "url": "https://arxiv.org/abs/2401.12236",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2401.12236"
+      ],
+      [
+        "Journal",
+        "https://doi.org/10.1109/TIT.2026.3702992"
+      ]
+    ]
+  },
+  {
+    "id": "ood",
+    "title": "On the Benefits of Over-parameterization for Out-of-Distribution Generalization",
+    "authors": [
+      "Yifan Hao*",
+      "Yong Lin*",
+      "Difan Zou",
+      "Tong Zhang"
+    ],
+    "venue": "Preprint",
+    "year": 2024,
+    "topics": [
+      "theory"
+    ],
+    "url": "https://arxiv.org/abs/2403.17592",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2403.17592"
+      ]
+    ]
+  },
+  {
+    "id": "spurious",
+    "title": "Spurious feature diversification improves out-of-distribution generalization",
+    "authors": [
+      "Yong Lin*",
+      "Lu Tan*",
+      "Yifan Hao*",
+      "Honam Wong",
+      "Hanze Dong",
+      "Weizhong Zhang",
+      "Yujiu Yang",
+      "Tong Zhang"
+    ],
+    "venue": "ICLR",
+    "year": 2024,
+    "topics": [
+      "theory"
+    ],
+    "url": "https://arxiv.org/abs/2309.17230",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2309.17230"
+      ]
+    ]
+  },
+  {
+    "id": "diffusion",
+    "title": "Reverse Diffusion Monte Carlo",
+    "authors": [
+      "Xunpeng Huang*",
+      "Hanze Dong*",
+      "Yifan Hao",
+      "Yi-An Ma",
+      "Tong Zhang"
+    ],
+    "venue": "ICLR",
+    "year": 2024,
+    "topics": [
+      "theory"
+    ],
+    "url": "https://arxiv.org/abs/2307.02037",
+    "links": [
+      [
+        "Paper",
+        "https://arxiv.org/abs/2307.02037"
+      ]
+    ]
+  },
+  {
+    "id": "sfqra",
+    "title": "SFQRA: Scaled Factor-augmented Quantile Regression with Aggregation in Conditional Mean Forecasting",
+    "authors": [
+      "Lei Shu",
+      "Yifan Hao",
+      "Yu Chen",
+      "Qing Yang"
+    ],
+    "venue": "J. Multivariate Analysis",
+    "year": 2025,
+    "topics": [
+      "theory"
+    ],
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0047259X2400112X",
+    "links": [
+      [
+        "Paper",
+        "https://www.sciencedirect.com/science/article/abs/pii/S0047259X2400112X"
+      ]
+    ]
+  }
+]
