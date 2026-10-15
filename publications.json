@@ -17,7 +17,9 @@
     "topics": [
       "llm"
     ],
-    "links": []
+    "links": [],
+    "cv_order": 1,
+    "cv_type": "Preprint"
   },
   {
     "id": "retrieval",
@@ -65,7 +67,9 @@
         "Paper",
         "https://arxiv.org/abs/2603.19470"
       ]
-    ]
+    ],
+    "cv_order": 2,
+    "cv_type": "arXiv"
   },
   {
     "id": "taskvectors",
@@ -120,7 +124,9 @@
         "Paper",
         "https://arxiv.org/abs/2506.04690"
       ]
-    ]
+    ],
+    "cv_order": 3,
+    "cv_type": "arXiv"
   },
   {
     "id": "hmm",
@@ -143,7 +149,9 @@
         "Paper",
         "https://arxiv.org/abs/2506.01919"
       ]
-    ]
+    ],
+    "cv_order": 4,
+    "cv_type": "arXiv"
   },
   {
     "id": "gvm",
@@ -168,7 +176,9 @@
         "Paper",
         "https://arxiv.org/abs/2505.02391"
       ]
-    ]
+    ],
+    "cv_order": 7,
+    "cv_type": "NeurIPS 2025"
   },
   {
     "id": "overadapt",
@@ -193,7 +203,9 @@
         "Paper",
         "https://arxiv.org/abs/2506.01901"
       ]
-    ]
+    ],
+    "cv_order": 8,
+    "cv_type": "ICML 2025"
   },
   {
     "id": "benign",
@@ -217,7 +229,9 @@
         "Journal",
         "https://doi.org/10.1109/TIT.2026.3702992"
       ]
-    ]
+    ],
+    "cv_order": 6,
+    "cv_type": "IEEE Transactions on Information Theory"
   },
   {
     "id": "ood",
@@ -239,7 +253,9 @@
         "Paper",
         "https://arxiv.org/abs/2403.17592"
       ]
-    ]
+    ],
+    "cv_order": 5,
+    "cv_type": "arXiv"
   },
   {
     "id": "spurious",
@@ -265,7 +281,9 @@
         "Paper",
         "https://arxiv.org/abs/2309.17230"
       ]
-    ]
+    ],
+    "cv_order": 9,
+    "cv_type": "ICLR 2024"
   },
   {
     "id": "diffusion",
@@ -288,7 +306,9 @@
         "Paper",
         "https://arxiv.org/abs/2307.02037"
       ]
-    ]
+    ],
+    "cv_order": 10,
+    "cv_type": "ICLR 2024"
   },
   {
     "id": "sfqra",
@@ -309,6 +329,26 @@
       [
         "Paper",
         "https://www.sciencedirect.com/science/article/abs/pii/S0047259X2400112X"
+      ]
+    ],
+    "cv_order": 11,
+    "cv_type": "Journal of Multivariate Analysis"
+  },
+  {
+    "id": "rlvr-blog",
+    "title": "Revisiting the Predictability of RLVR",
+    "authors": [],
+    "venue": "Blog · In progress",
+    "year": 2026,
+    "in_progress": true,
+    "topics": [
+      "llm"
+    ],
+    "url": "https://zoeyli.com/blog/Revisiting-Predictability-of-RLVR/",
+    "links": [
+      [
+        "Blog",
+        "https://zoeyli.com/blog/Revisiting-Predictability-of-RLVR/"
       ]
     ]
   }

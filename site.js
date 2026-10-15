@@ -17,6 +17,6 @@ if (filterBar) {
       paper.hidden = !visible;
       if (visible) count++;
     });
-    status.textContent = `Showing ${count} of ${papers.length} publications and preprints`;
+    status.textContent = `Showing ${count} of ${papers.length} works`;
   });
 }

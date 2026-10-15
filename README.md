@@ -6,7 +6,7 @@ The website is static HTML, CSS, and a small progressive enhancement script. Git
 
 ## Update content
 
-- Edit `publications.json` for publication metadata. Homepage selections and the complete research page are generated from the same source.
+- Edit `publications.json` for publication metadata. Homepage selections and the complete research page are generated from the same source. `cv_order` and `cv_type` preserve the homepage publication order and labels from the CV; those entries do not display an additional year.
 - Edit `build_site.py` for the biography, experience, teaching, awards, and other page copy.
 - Replace `cv.pdf` with the current public CV.
 - Run `python3 build_site.py` and commit the generated HTML alongside the source changes.
