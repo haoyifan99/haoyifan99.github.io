@@ -150,7 +150,7 @@
         "https://arxiv.org/abs/2506.01919"
       ]
     ],
-    "cv_order": 4,
+    "cv_order": 6,
     "cv_type": "arXiv"
   },
   {
@@ -177,7 +177,7 @@
         "https://arxiv.org/abs/2505.02391"
       ]
     ],
-    "cv_order": 7,
+    "cv_order": 4,
     "cv_type": "NeurIPS 2025"
   },
   {
@@ -204,7 +204,7 @@
         "https://arxiv.org/abs/2506.01901"
       ]
     ],
-    "cv_order": 8,
+    "cv_order": 5,
     "cv_type": "ICML 2025"
   },
   {
@@ -230,7 +230,7 @@
         "https://doi.org/10.1109/TIT.2026.3702992"
       ]
     ],
-    "cv_order": 6,
+    "cv_order": 8,
     "cv_type": "IEEE Transactions on Information Theory"
   },
   {
@@ -254,7 +254,7 @@
         "https://arxiv.org/abs/2403.17592"
       ]
     ],
-    "cv_order": 5,
+    "cv_order": 7,
     "cv_type": "arXiv"
   },
   {
